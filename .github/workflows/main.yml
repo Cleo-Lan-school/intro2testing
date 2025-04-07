@@ -1,3 +1,5 @@
+name: test
+
 # Set up python to be able to run python scripts
 - name: Set up Python
   uses: actions/setup-python@v1
